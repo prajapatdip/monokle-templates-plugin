@@ -1,7 +1,7 @@
 {
     "name": "Basic Kubernetes Pod",
     "id": "com.github.prajapatdip.plugin.templates.basic-pod-template",
-    "author": "Kunal Kushwaha",
+    "author": "Dip Prajapat",
     "version": "1.0.0",
     "description": "Creates a Pod for a specified Image",
     "repository": "",
