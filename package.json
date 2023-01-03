@@ -2,7 +2,7 @@
 	"name": "Templates plugin",
 	"description": "Custom templates plugin",
 	"version": "1.0.0",
-	"author": "Kunal Kushwaha",
+	"author": "Dip Prajapat",
 	"repository": "https://github.com/prajapatdip/monokle-templates-plugin",
 	"monoklePlugin": {
 		"id": "com.github.prajapatdip.plugin.templates",
